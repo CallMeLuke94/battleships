@@ -1,3 +1,5 @@
+//main java file
+
 import java.util.Random;
 import java.util.Scanner; 
 
